@@ -1,0 +1,8 @@
+langchain
+langchain-chroma
+langchain-ollama
+chromadb
+python-dotenv
+requests
+tensorflow
+matplotlib
